@@ -5,6 +5,7 @@
 
 #You can download the sample data at http://www.py4e.com/code3/mbox-short.txt
 
+
 fname = input("Enter file name: ")
 if len(fname) < 1 : fname = "mbox-short.txt"
 
